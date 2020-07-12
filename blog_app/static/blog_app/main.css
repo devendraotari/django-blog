@@ -53,7 +53,10 @@ a.article-title:hover {
 
 .article-content {
   white-space: pre-line;
+  word-break: break-all;
+
 }
+
 
 .article-img {
   height: 65px;
