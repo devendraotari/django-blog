@@ -1,4 +1,4 @@
-# django-blog
+# Django-Blog
 A social networking blogging  web site where user can share  their ideas, thoughts and experiences through a blog post.
 
 Steps to start project in local environment
@@ -14,5 +14,5 @@ Steps to start project in local environment
 this will create a local server listening on 
 http://127.0.0.1:8000/
 
-[link for live website](https://awesome-django-blogapp.herokuapp.com/)
-https://awesome-django-blogapp.herokuapp.com/
+link for live [website](https://awesome-django-blogapp.herokuapp.com/)
+
